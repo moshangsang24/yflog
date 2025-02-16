@@ -24,4 +24,3 @@ logger.warning('test')
 logger.error('test')
 
 ```
-
